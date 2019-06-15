@@ -1,0 +1,40 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  
+font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.header{
+  background-color: slateblue;
+  padding: 5px 0px
+}
+.header header img{
+  height: 100px;
+  width: 100px;
+  float: left;
+  top: 0px;
+  position: absolute;
+  background-color: slateblue
+}
+.header header p{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.memeGenerator input{
+padding: 5px;
+width: 350px;
+margin: 10px 15px;
+outline: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.memeGenerator button{
+  background-color: slateblue;
+  color: white;
+  padding: 5px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
